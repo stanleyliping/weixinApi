@@ -1,0 +1,6 @@
+F:\myGit\C#$javascriptProjects\weixinApi\service\bin\Debug\service.dll
+F:\myGit\C#$javascriptProjects\weixinApi\service\bin\Debug\service.pdb
+F:\myGit\C#$javascriptProjects\weixinApi\service\bin\Debug\Newtonsoft.Json.dll
+F:\myGit\C#$javascriptProjects\weixinApi\service\bin\Debug\Newtonsoft.Json.xml
+F:\myGit\C#$javascriptProjects\weixinApi\service\obj\Debug\service.dll
+F:\myGit\C#$javascriptProjects\weixinApi\service\obj\Debug\service.pdb
