@@ -60,7 +60,7 @@ namespace service
         /// <returns></returns>
         public string send(string token)
         {
-            HttpContext.Current.Response.AddHeader("Access-Control-Allow-Origin", "*");//处理跨域问题
+            //HttpContext.Current.Response.AddHeader("Access-Control-Allow-Origin", "*");//处理跨域问题
             Text text = new Text();
             text.content = "欢迎登陆<a href=\"http://i199527q33.imwork.net:8000\">自家用测试版</a>！\n后续功能将逐步开放，敬请期待！";
             sendToUserModel stum = new sendToUserModel();
@@ -106,7 +106,7 @@ namespace service
         /// <returns></returns>
         public string getQYMemberById(string token,string id)
         {
-            HttpContext.Current.Response.AddHeader("Access-Control-Allow-Origin", "*");//处理跨域问题
+            //HttpContext.Current.Response.AddHeader("Access-Control-Allow-Origin", "*");//处理跨域问题
             string url = string.Format("https://qyapi.weixin.qq.com/cgi-bin/user/get?access_token={0}&userid={1}", token, id);
 
             HttpWebRequest request = (HttpWebRequest)WebRequest.Create(url);
