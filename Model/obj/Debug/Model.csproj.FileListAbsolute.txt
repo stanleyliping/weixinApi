@@ -2,4 +2,3 @@ F:\myGit\C#$javascriptProjects\weixinApi\Model\bin\Debug\Model.dll
 F:\myGit\C#$javascriptProjects\weixinApi\Model\bin\Debug\Model.pdb
 F:\myGit\C#$javascriptProjects\weixinApi\Model\obj\Debug\Model.dll
 F:\myGit\C#$javascriptProjects\weixinApi\Model\obj\Debug\Model.pdb
-F:\myGit\C#$javascriptProjects\weixinApi\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
